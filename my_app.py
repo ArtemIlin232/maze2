@@ -6,7 +6,7 @@ from PyQt5.QtWidgets import (
         QGroupBox, QRadioButton,
         QPushButton, QLabel, QListWidget, QLineEdit)
 
-from second import *
+from second_win import *
 from instr import *
 class MainWin(QWidget):
     def __init__(self):
